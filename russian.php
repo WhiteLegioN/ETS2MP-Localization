@@ -73,7 +73,7 @@ $_lang["new.password.does.not.match"] = "Новые пароли, которые
 $_lang["too.short.password"] = "Новый пароль слишком короткий. Минимум 5 символов.";
 $_lang["old.password.does.not.match"] = "Неверный старый пароль.";
 $_lang["settings.saved"] = "Настройки Вашей учетной записи сохранены.";
-$_lang["invalid.old.password"] = "Неверно введен старый апроль. Невозможно сохранить настройки учетной записи.";
+$_lang["invalid.old.password"] = "Неверно введен старый пароль. Невозможно сохранить настройки учетной записи.";
 $_lang["no.password.change.forced"] = "Для сброса пароля Вы должны выйти из своей учетной записи.";
 $_lang["password.reminder.edit.account"] = "Не помните пароль? Нажмите <a href=\"index.php?page=resetPassword\">здесь</a>.";
 $_lang["contact"] = "Обратная связь";
@@ -85,4 +85,4 @@ $_lang["topic"] = "Тема";
 $_lang["contact.message.too.short"] = "Сообщение слишком короткое. Оно должно содержать не менее 10 символов.";
 $_lang["contact.topic.too.short"] = "Название темы слишком короткое. Оно должно быть не менее 10 символов.";
 $_lang["invalid.mail.forgot.password"] = "Учетной записи, зарегистрированной на эту электронную почту, не существует.";
-$_lang["error.cannot.fetch.steam.api"] = "Cannot get your steam profile data from steam. Try again later.";
+$_lang["error.cannot.fetch.steam.api"] = "Не удалось подключиться к вашему профилю Steam. Попробуйте зайти позже.";
