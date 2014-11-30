@@ -74,7 +74,7 @@ $_lang["new.password.does.not.match"] = "Новые пароли, которые
 $_lang["too.short.password"] = "Новый пароль слишком короткий. Минимум 5 символов.";
 $_lang["old.password.does.not.match"] = "Неверный старый пароль.";
 $_lang["settings.saved"] = "Настройки Вашей учетной записи сохранены.";
-$_lang["invalid.old.password"] = "Неверно введен старый апроль. Невозможно сохранить настройки учетной записи.";
+$_lang["invalid.old.password"] = "Неверно введен старый пароль. Невозможно сохранить настройки учетной записи.";
 $_lang["no.password.change.forced"] = "Для сброса пароля Вы должны выйти из своей учетной записи.";
 $_lang["password.reminder.edit.account"] = "Не помните пароль? Нажмите <a href=\"index.php?page=resetPassword\">здесь</a>.";
 $_lang["contact"] = "Обратная связь";
@@ -88,4 +88,4 @@ $_lang["contact.topic.too.short"] = "Название темы слишком к
 $_lang["invalid.mail.forgot.password"] = "Учетной записи, зарегистрированной на эту электронную почту, не существует.";
 $_lang["steamid.in.use"] = "Мы обнаружили, что аккаунт ETS2MP уже связан с данным Steam аккаунтом. Если у вас имеются проблемы с регистрацией - пожалуйста, свяжитесь с нами <a href=\"http://ets2mp.com/index.php?page=contact\">contact us</a>.";
 $_lang["mail.does.not.match"] = "Указанные адреса электронной почты не совпадают.";
-$_lang["support"] = "Support";
+$_lang["support"] = "Поддержка";
